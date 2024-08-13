@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Yogurt",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 2,
@@ -35,6 +35,18 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
     }
   ]
 }
